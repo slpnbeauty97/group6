@@ -1,0 +1,3 @@
+this is our system design for our salon beauty system, created using php, mysql & html
+from our use case diagram there will be two actors prmarily which is the salon customer, and the other which is our salon owner
+the system is based off a component design model, where from our requirement elicitation we were able to understand the needs of our customer/client
